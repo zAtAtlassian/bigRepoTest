@@ -1,0 +1,3 @@
+[submodule "littleRepoTest"]
+	path = littleRepoTest
+	url = https://github.com/zAtAtlassian/littleRepoTest.git
